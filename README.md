@@ -1,0 +1,1 @@
+# -Solution-of-nonlinear-equations.-Bisection-method-bisections-.-Newton-s-method.
